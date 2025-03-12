@@ -105,6 +105,6 @@
   "include": [
     "src/**/*",
     //"src/data/**/*.json",
-    //"prisma/**/*"
+    "prisma/**/*"
   ]
 }
